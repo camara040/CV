@@ -1,0 +1,72 @@
+body{
+background:white;
+}
+
+header{
+Padding:5px;
+magin:opx;
+font-weight:15px;
+font-family: 'Artifika', serif;
+background:silvers;
+color:green;
+text-align: center;
+}
+
+nav{
+  border:3px solid black;
+  padding:4px;
+  height:200px;
+  width: 300px;
+  font-family: 'Alegreya', serif;
+}
+.box{
+  margin-right: 450px;
+  margin-left: 450px;
+  font-family: 'Acme', sans-serif;
+  text-align:center;
+  padding:2px;
+  height:190px;
+  width: 400px;
+  border: 4px solid yellow;
+}
+.line{
+  justify-content: center;
+  margin-top: 15px;
+  margin-left: 385px;
+  font-family: 'Acme', sans-serif;
+  text-align:center;
+  padding:6px;
+  height:140px;
+  width: 520px;
+  border: 4px solid green;
+}
+.listen{
+  margin-top: 15px;
+  margin-left: 300px;
+  font-family: 'Acme', sans-serif;
+  text-align:center;
+  padding:6px;
+  height:350px;
+  width: 700px;
+  border: 4px solid green;
+}
+.good{
+  margin-top: 15px;
+  margin-left: 252px;
+  font-family: 'Acme', sans-serif;
+  text-align:center;
+  padding:6px;
+  height:270px;
+  width: 800px;
+  border: 4px solid green;
+}
+.clean{
+  margin-top: 15px;
+  margin-left: 210px;
+  font-family: 'Acme', sans-serif;
+  text-align:center;
+  padding:6px;
+  height:150px;
+  width: 900px;
+  border: 4px solid green;
+}
